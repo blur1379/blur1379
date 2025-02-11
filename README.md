@@ -1,24 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mohammad Blur</h1>
-<h3 align="center">Passionate iOS Developer Crafting User-Centric Experiences 📱✨</h3>
+# 👋 Hi there, I'm Mohammad Hossein Bolurforoush!  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blur1379&label=Profile%20views&color=0e75b6&style=flat" alt="blur1379" /> </p>
+🚀 **Mobile Developer | iOS & Android Specialist | Flutter Enthusiast**  
 
-- 🌱 I’m currently learning **Golang**
+I am a passionate **iOS Engineer** with a strong background in **Swift, Objective-C, Kotlin, Java, and Flutter**. With experience in **building scalable mobile applications**, improving app performance, and enhancing security, I love crafting seamless user experiences across multiple platforms.  
 
-- 💬 Ask me about **Swift,Dart,Java**
+---
 
-- 📫 How to reach me **blor1379@gmail.com**
+## 🔧 **Tech Stack & Skills**  
 
-<h3 align="left">Connect with me:</h3>
+### 📱 **Mobile Development**  
 <p align="left">
-<a href="https://linkedin.com/in/mohammad hosein bolurforoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad hosein bolurforoush" height="30" width="40" /></a>
+  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/Objective-C.svg" alt="Objective-C" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/Android.svg" alt="android" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" height="50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ 
+<p align="left">
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-64x64.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/swiftdata-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/swift-testing-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/apple-intelligence-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/app-intents-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/testflight-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/create-ml-96x96_2x.png" height="50">
+  <img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-64x64.png" height="50">
+  <img src="https://developer.apple.com/assets/elements/icons/cloudkit/cloudkit-64x64.png" height="50">
+  <img src="https://developer.apple.com/assets/elements/icons/storekit/storekit-64x64.png" height="50">
+  <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-64x64.png" height="50">
+  <img src="https://developer.apple.com/assets/elements/icons/avfoundation/avfoundation-64x64.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/core-ml-128x128_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/create-ml-framework-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/healthkit-128x128.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/homekit-128x128.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/mapkit-64x64_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/musickit-128x128_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/sirikit-128x128_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/tipkit-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/weatherkit-96x96_2x.png" height="50">
+  <img src="https://github.com/blur1379/readmeResorce/blob/main/widgetkit-96x96_2x.png" height="50">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blur1379&show_icons=true&theme=dracula&locale=en&layout=compact" alt="blur1379" /></p>
+### ⚙ **Architecture & Best Practices**  
+- **Design Patterns:** MVC, MVVM, Redux, VIPER, Clean Architecture  
+- **Testing & CI/CD:** TDD, Dependency Injection, Fastlane  
+- **Networking:** REST APIs, GraphQL, WebSockets, GRPC  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blur1379&show_icons=true&theme=dracula&locale=en" alt="blur1379" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blur1379&theme=dark" alt="blur1379" /></p>
+## 📌 **Education & Mentorship**
+🎓 **Bachelor’s in Computer Software Engineering** – IAU (2022 - Present)    
+
+---
+
+## 📫 **Let's Connect!**  
+🔗 [LinkedIn](https://ir.linkedin.com/in/mohammadblur)  
+📩 Email: mohammad.blur@icloud.com  
+💻 [GitHub](https://github.com/blur1379)  
+
+---
+
+💡 **"Code with purpose, build with passion."**  
