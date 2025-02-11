@@ -54,8 +54,8 @@ I am a passionate **iOS Engineer** with a strong background in **Swift, Objectiv
 
 ## 🖥 **Backend & DevOps**  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GoLang" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GoLang" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="50">
