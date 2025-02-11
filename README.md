@@ -52,15 +52,9 @@ I am a passionate **iOS Engineer** with a strong background in **Swift, Objectiv
 
 ---
 
-## 📌 **Education & Mentorship**
-🎓 **Bachelor’s in Computer Software Engineering** – IAU (2022 - Present)    
-
----
-
 ## 📫 **Let's Connect!**  
 🔗 [LinkedIn](https://ir.linkedin.com/in/mohammadblur)  
 📩 Email: mohammad.blur@icloud.com  
-💻 [GitHub](https://github.com/blur1379)  
 
 ---
 
