@@ -52,6 +52,22 @@ I am a passionate **iOS Engineer** with a strong background in **Swift, Objectiv
 
 ---
 
+## 🖥 **Backend & DevOps**  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GoLang" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="50">
+</p>
+
+- **Backend:** Golang, Node.js, gRPC, REST APIs  
+- **Databases:** PostgreSQL, Redis, Firebase, MongoDB  
+- **Cloud & DevOps:** Docker, Kubernetes, Terraform, AWS Lambda, Cloud Functions  
+- **Scalability & Performance:** Microservices, Caching Strategies, High-Performance APIs  
+
+---
+
 ## 📫 **Let's Connect!**  
 🔗 [LinkedIn](https://ir.linkedin.com/in/mohammadblur)  
 📩 Email: mohammad.blur@icloud.com  
